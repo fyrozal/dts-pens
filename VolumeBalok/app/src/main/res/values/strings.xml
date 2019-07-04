@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VolumeBalok</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">HITUNG</string>
+    <string name="hasil">HASIL</string>
+    <string name="txt_field_kosong">Field tidak boleh kosong !</string>
+
+
+</resources>
