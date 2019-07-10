@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btn_satu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:text="TOP" />
+
+    <Button
+        android:id="@+id/btn_dua"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+       
+        android:layout_toRightOf="@id/btn_satu"
+        android:text="BUTTON 2" />
+
+    <Button
+        android:id="@+id/btn_tiga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/btn_empat"
+        android:layout_alignParentRight="true"
+        android:text="BUTTON 3" />
+
+    <Button
+        android:id="@+id/btn_empat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="BOTTOM" />
+</RelativeLayout>
