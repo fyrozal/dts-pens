@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6dd5fa</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="deep_blue">#2eabff</color>
+    <color name="deep_blue_pressed">#1e7cba</color>
+
+    <color name="light_blue">#6dd5fa</color>
+    <color name="grey">#ecebeb</color>
+    <color name="dark_grey">#8b8b8b</color>
+
+
+    <color name="border_blue">#1B3280</color>
+    <color name="solar_red">#ff0000</color>
+
+
+</resources>
